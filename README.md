@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-type-check/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-type-check/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/type-check)](https://www.npmjs.com/package/@philiprehberger/type-check)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-type-check)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Runtime type checking utilities with TypeScript type guards — typeof on steroids
 
