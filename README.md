@@ -1,9 +1,8 @@
 # @philiprehberger/type-check
 
 [![CI](https://github.com/philiprehberger/ts-type-check/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-type-check/actions/workflows/ci.yml)
-[![npm version](https://img.shields.io/npm/v/@philiprehberger/type-check)](https://www.npmjs.com/package/@philiprehberger/type-check)
-[![License](https://img.shields.io/github/license/philiprehberger/ts-type-check)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/type-check.svg)](https://www.npmjs.com/package/@philiprehberger/type-check)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-type-check)](https://github.com/philiprehberger/ts-type-check/commits/main)
 
 Runtime type checking utilities with TypeScript type guards — typeof on steroids
 
@@ -96,6 +95,24 @@ npm run build
 npm test
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/ts-type-check)
+
+🐛 [Report issues](https://github.com/philiprehberger/ts-type-check/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/ts-type-check/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
